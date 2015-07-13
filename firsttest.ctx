@@ -15,7 +15,11 @@ Using Sliced Inverse Regression}
 
 \tableofcontents
 \section{Introdution}
-\footnote{reference \ref{inequ1}}Ichino, M.use the quantile method to research symbilic data by PCA
+\footnote{reference \ref{inequ1}} We want to research symbolic data and reduce data dimension,
+but traditional PCA only can be used in single value,
+so I've got to develop usable way that make traditional PCA work,
+Ichino, M. research symbilic data by S-PCA that use quantile method,
+S-PCA main is used in histogram-value data and Multi-value data,
 \section{第二個章節}
 
 \section{第三個章節}
@@ -60,3 +64,4 @@ Statistical Congress, 2011, Dublin (Session CPS053), pp.5185-5190.
 
 \end{thebibliography}
 \end{document}
+
