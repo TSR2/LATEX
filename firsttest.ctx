@@ -1,0 +1,62 @@
+\documentclass[UTF8]{article}
+
+\title{Dimension Reduction and Visualization\\
+of the Histogram Data\\
+Using Sliced Inverse Regression}
+\author{xxx \\
+{\it Department of Mathematics, Tamkang University}}
+\date{\today}
+
+
+
+\begin{document}
+\maketitle
+
+
+\tableofcontents
+\section{Introdution}
+\footnote{reference \ref{inequ1}}Ichino, M.use the quantile method to research symbilic data by PCA
+\section{第二個章節}
+
+\section{第三個章節}
+\section{第四個章節}
+
+
+
+\section{summary}
+\begin{thebibliography}{99}
+\bibitem{Shultis94} Rodriguez, O., Diday, E., and Winsberg, S., (2000), Generalization of the principal
+component analysis to histogram data, PKDD2000, Lyon, 2000.\label{inequ1}
+
+\bibitem Ichino, M., (2008), Symbolic PCA for histogram-valued data, in Proceedings
+IASC. December 5-8, Yokohama, Japan.
+
+\item Ichino, M., (2011), The quantile method for symbolic principal component
+analysis, Statistical Analysis and Data Mining, 4(2): 184-198.
+
+\item Verde, R. and Irpino, A., (2013), Dimension reduction techniques for distributional
+symbolic data, SIS 2013 Statistical Conference, Advances in Latent Variables -
+Methods, Models and Applications, University of Brescia, June, 19-21, 2013.
+
+\item Rodriguez, O., Diday, E., and Winsberg, S., (2000), Generalization of the principal
+component analysis to histogram data, PKDD2000, Lyon, 2000.
+
+\item Makosso-Kallyth, S. and Diday, E., (2012), Adaptation of interval PCA to
+symbolic histogram variables, Adv Data Anal Classif, 6: 147-159.
+
+\bibitem  Wang, H., Chen, M., Li, N., and Wang, L., (2011), Principal component analysis
+of modal interval-valued data with constant numerical characteristics, Int.
+Statistical Inst.: Proc. 58th World Statistical Congress, 2011, Dublin (Session
+CPS053), pp.5185-5190.
+
+\item Billard, L. and diday, E., (2003), From the statistics of data to the
+statistics of knowledge: symbolic data analysis, Journal of the
+American Statistical Association, 98(462), 470-487.
+
+\item Wang, H., Chen, M., Li, N., and Wang, L., (2011), Principal
+component analysis of modal interval-valued data with constant
+numerical characteristics, Int. Statistical Inst.: Proc. 58th World
+Statistical Congress, 2011, Dublin (Session CPS053), pp.5185-5190.
+
+\end{thebibliography}
+\end{document}
